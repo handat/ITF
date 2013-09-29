@@ -1,4 +1,4 @@
-package test_maven;
+package jp.handatec.itf;
 
 import java.util.HashMap;
 import java.util.List;

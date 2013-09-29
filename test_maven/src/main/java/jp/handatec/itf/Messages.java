@@ -1,4 +1,4 @@
-package test_maven;
+package jp.handatec.itf;
 
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;

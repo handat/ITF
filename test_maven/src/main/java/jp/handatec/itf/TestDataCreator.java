@@ -1,4 +1,4 @@
-package test_maven;
+package jp.handatec.itf;
 
 import java.io.FileReader;
 import java.lang.reflect.Type;

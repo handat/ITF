@@ -1,4 +1,4 @@
-package test_maven;
+package jp.handatec.itf;
 
 public class DataPattern {
 	private String id;
